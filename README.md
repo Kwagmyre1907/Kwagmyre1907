@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="https://github.com/Kwagmyre1907">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kwagmyre1907&theme=radical&langs_count=10" height="150"/>
 </a>
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Kwagmyre1907&show_icons=true&theme=radical" height="150"/>
 </a>
 
-<a href="https://github.com/iamlucki">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamlucki&theme=radical&langs_count=10" height="150"/>
+<a href="https://github.com/Kwagmyre1907">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kwagmyre1907&theme=radical&langs_count=10" height="150"/>
 </a>
+-->
