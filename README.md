@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Kwagmyre1907">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kwagmyre1907&theme=radical&langs_count=10" height="150"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kwagmyre1907&theme=radical&langs_count=10" height="150" width="100"/>
 </a>
 
 <a href="https://github.com/Kwagmyre1907">
