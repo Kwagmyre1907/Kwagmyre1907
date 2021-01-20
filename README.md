@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kwagmyre1907/Kwagmyre1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/Kwagmyre1907">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kwagmyre1907&theme=radical&langs_count=10" height="150"/>
+</a>
+
+<a href="https://github.com/Kwagmyre1907">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Kwagmyre1907&show_icons=true&theme=radical" height="150"/>
+</a>
